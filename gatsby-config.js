@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `The Depth Hoar Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Adam Bretzer`,
+      summary: `who lives and works in Canada building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `TheDepthHoar`,
     },
   },
   plugins: [
@@ -113,10 +113,10 @@ module.exports = {
         name: `Gatsby Starter Blog`,
         short_name: `Gatsby`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#f7f0eb`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
-        // theme_color: `#663399`,
+        // theme_color: `#66339`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
