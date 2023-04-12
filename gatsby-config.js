@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `The Depth Hoar Blog`,
+    title: `The Depth Hoar Digest`,
     author: {
       name: `Adam Bretzer`,
       summary: `who lives and works in Canada building useful things.`,
