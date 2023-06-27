@@ -44,10 +44,14 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
+          Hi, I'm <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            follow me on Twitter
+             on Twitter
+          </a>
+          {` or dive into my work by `}
+          <a href="https://www.depthhoar.com/">
+          visiting my portfolio.
           </a>
         </p>
       )}

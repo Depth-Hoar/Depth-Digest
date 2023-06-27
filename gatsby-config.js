@@ -12,9 +12,9 @@ module.exports = {
     title: `The Depth Hoar Digest`,
     author: {
       name: `Adam Bretzer`,
-      summary: `who lives and works in Canada building useful things.`,
+      summary: `a passionate blockchain developer based in Canada. I spend my days building innovative solutions in the crypto space. I invite you to follow my journey`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Depth Hoar Digest`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `TheDepthHoar`,
