@@ -11,7 +11,7 @@ module.exports = {
   siteMetadata: {
     title: `The Depth Hoar Digest`,
     author: {
-      name: `Adam Bretzer`,
+      name: `Adam`,
       summary: `a passionate blockchain developer based in Canada. I spend my days building innovative solutions in the crypto space. I invite you to follow my journey`,
     },
     description: `Depth Hoar Digest`,
